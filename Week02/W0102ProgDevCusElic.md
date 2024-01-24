@@ -10,14 +10,14 @@ Submitted by: Woodford, Anita
 
 # Table of Contents
 
-- [Tasking 1](#_Toc156678825)
-- [My notes from the meeting: 1](#_Toc156678826)
-- [My post on Teams: 3](#_Toc156678827)
-- [Step 2 3](#_Toc156678828)
-  - [Software Requirements Specification (SRS) Document 4](#_Toc156678829)
-    - [Community Board App 4](#_Toc156678830)
-  - [Step 3 8](#_Toc156678831)
-    - [Skills 8](#_Toc156678832)
+- [Tasking ](#_Toc156678825)
+- [My notes from the meeting: ](#_Toc156678826)
+- [My post on Teams: ](#_Toc156678827)
+- [Step ](#_Toc156678828)
+  - [Software Requirements Specification (SRS) Document](#_Toc156678829)
+    - [Community Board App ](#_Toc156678830)
+  - [Step](#_Toc156678831)
+    - [Skills](#_Toc156678832)
 
 # Tasking
 
