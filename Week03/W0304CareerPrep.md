@@ -143,9 +143,13 @@ By the end of the current semester, I aim to expand my professional network by a
 **SMART Criteria:**
 
 Specific: Attend three industry-related events, dedicate 1 hour per week to explore resources, and join one professional organization.
+
 Measurable: Track event attendance, hours spent on resource exploration, and thriving membership in a professional organization.
+
 Achievable: Ensure feasibility by scheduling specific time slots for networking events, resource exploration, and organization participation within my weekly routine.
+
 Relevant: Align with my goal of professional growth in embedded software engineering and staying updated on industry developments.
+
 Time-Bound: Achieve these milestones by the end of the current semester.
 Accountability Partner:
 
