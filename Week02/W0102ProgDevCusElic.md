@@ -8,6 +8,7 @@ January 20, 2024
 Submitted by: Woodford, Anita
 [awoodfor@byui.edu](mailto:awoodfor@byui.edu)
 
+
 - [Week 1-2](#week-1-2)
   - [Prog/Product Dev: Customer Elicitation](#progproduct-dev-customer-elicitation)
     - [Submitted to: Brother Clements](#submitted-to-brother-clements)
