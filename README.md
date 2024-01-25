@@ -18,7 +18,6 @@ A placce to keep the appropraite information for class.
 * Visual Studio 
 * Mac users Parallels
 * Visual Studio 2022 Windows Version
-* C #
 * ReSharper
 * Git / GitHub
 
