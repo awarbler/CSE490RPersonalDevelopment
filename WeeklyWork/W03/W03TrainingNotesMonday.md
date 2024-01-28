@@ -27,17 +27,20 @@
     -   Configuration management ensures code control and prevents accidental data loss.
     -   Use of repositories to manage and control changes, with branches, merges, and updates.
 
-### To-Do List:
+### Add to Projects :
 
 1.  **SRS Software Requirement Document:**
 
     -   Develop an SRS document covering product architecture, scenarios, customer needs, and user roles.
+  
 2.  **Requirements Document:**
 
     -   Write specific requirements using the "shall" format for architectural elements, scenarios, and user roles.
+  
 3.  **Verification of Requirements:**
 
     -   Identify and document the methods (demo, code inspection, etc.) used to verify each requirement.
+  
 4.  **Project Development:**
 
     -   Provide a detailed summary of project tasks, completed stories, performance metrics, velocity versus hours, changes, and future plans.
