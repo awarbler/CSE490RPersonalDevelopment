@@ -2,26 +2,26 @@ Wk 3-4: Proj Dev.
 
 # Part 1: Personal Development Folder
 
-- [ ] Create a GitHub Repository:
-  - [ ] Go to GitHub and log in.
-  - [ ] Click on the "+" sign in the top right corner and choose "New repository."
-  - [ ] Name your repository (e.g., Personal-Development).
-  - [ ] Add a brief description if needed.
-  - [ ] Initialize this repository with a README file.
-  - [ ] Click "Create repository."
+- [ ] ~~Create a GitHub Repository:~~
+  - [ ] ~~Go to GitHub and log in.~~
+  - [ ] ~~Click on the "+" sign in the top right corner and choose "New repository."~~
+  - [ ] ~~Name your repository (e.g., Personal-Development).~~
+  - [ ] ~~Add a brief description if needed.~~
+  - [ ] ~~Initialize this repository with a README file.~~
+  - [ ] ~~Click "Create repository."~~
 
 - [ ] Check in Training Notes:
-  - [ ] Create a new file in your repository for each week's training notes (e.g., Week3_Training_Notes.md).
-  - [ ] Write or paste your training notes into the respective files.
-  - [ ] Commit the changes and push them to your GitHub repository.
+  - [ ] ~~Create a new file in your repository for each week's training notes (e.g., Week3_Training_Notes.md).~~
+  - [ ] ~~Write or paste your training notes into the respective files.~~
+  - [ ] ~~Commit the changes and push them to your GitHub repository.~~
   - [ ] Provide the link to your GitHub repository in your assignment submission.
 
 # Part 2: Minutes on GitHub Training
 CSE 490 Special Topics - Configuration Management/Version Control 
 https://video.byui.edu/media/t/1_cltuxa1w 
 
-- [ ] Take Notes:
-  - [ ] During the GitHub training, take detailed notes on key concepts, commands, and processes covered.
+- [ ] ~~Take Notes:~~
+  - [ ] ~~During the GitHub training, take detailed notes on key concepts, commands, and processes covered.~~
   
 - [ ] Create a Summary:
   - [ ] Summarize the main points covered during the training.
