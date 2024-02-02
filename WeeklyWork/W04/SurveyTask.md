@@ -8,14 +8,6 @@ Select appropriate survey distribution channels (e.g., email, social media, onli
 Collect survey responses and compile data for analysis.
 
 
-  -   [Surveys/Questionnaires #67](https://github.com/byui-cse397/2024WinCSE490PCP/issues/67)
-find / Create account a platform to hold survey\
-Description: Develop surveys or questionnaires to distribute to a wide audience.\
-Action Items:\
-Design survey questions that cover relevant topics related to the project.\
-Determine the target audience for the surveys (e.g., current users, potential users, stakeholders).\
-Select appropriate survey distribution channels (e.g., email, social media, online forums).\
-Collect survey responses and compile data for analysis.
 
 -   [Create Survey Questions #68](https://github.com/byui-cse397/2024WinCSE490PCP/issues/68)
     -   [ ]  Research requirements - Design survey questions that cover relevant topics related to the project.
@@ -47,10 +39,3 @@ Organize and categorize survey responses for systematic analysis.\
 Utilize qualitative and quantitative methods to identify patterns and correlations in the data.\
 Interpret the findings to understand user sentiments, preferences, and pain points.\
 Document key insights and observations to inform decision-making and project direction.
-
--   [Distribute surveys to a wider audience to collect diverse opinions and feedback. #71](https://github.com/byui-cse397/2024WinCSE490PCP/issues/71)
-Description: Summarize the results of the survey analysis into a comprehensive report.\
-Action Items:\
-Compile the analyzed data and observations into a structured report format.\
-Highlight significant findings, trends, and recommendations derived from the survey responses.\
-Review and validate the report for accuracy and relevance before dissemination to stakeholders.
