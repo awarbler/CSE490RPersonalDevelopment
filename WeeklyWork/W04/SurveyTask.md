@@ -10,7 +10,7 @@ Collect survey responses and compile data for analysis.
 
 
 -   [Create Survey Questions #68](https://github.com/byui-cse397/2024WinCSE490PCP/issues/68)
-    -   [ ]  Research requirements - Design survey questions that cover relevant topics related to the project.
+    -   [x]  Research requirements - Design survey questions that cover relevant topics related to the project.
              Description: Formulate questions for the surveys to gather specific information from participants.\
 Action Items:\
 Brainstorm and draft survey questions based on project objectives and user needs.\
